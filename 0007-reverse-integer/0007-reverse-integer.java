@@ -2,7 +2,7 @@ class Solution {
     public int reverse(int x) {
         long s=0;
     
-        while(x>0 || x<0)
+        while(x!=0)
         {
             int digit=x%10;
          s=s*10+digit;
