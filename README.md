@@ -30,6 +30,7 @@
 | ------- |
 | [0198-house-robber](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0198-house-robber) |
 | [0912-sort-an-array](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0912-sort-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0912-sort-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
