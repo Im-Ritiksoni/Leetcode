@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0007-reverse-integer) |
+| [2485-find-the-pivot-integer](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
