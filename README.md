@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Hash Table
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
