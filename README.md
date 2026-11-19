@@ -21,6 +21,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0198-house-robber) |
 ## Stack
 |  |
@@ -34,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0198-house-robber) |
 | [0912-sort-an-array](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
