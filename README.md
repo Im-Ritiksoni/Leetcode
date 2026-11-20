@@ -16,6 +16,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
