@@ -17,6 +17,7 @@
 | [0022-generate-parentheses](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@
 | [0912-sort-an-array](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
