@@ -11,6 +11,7 @@
 | [0728-self-dividing-numbers](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
