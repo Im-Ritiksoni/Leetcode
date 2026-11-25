@@ -44,6 +44,7 @@
 | [0198-house-robber](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0198-house-robber) |
 | [0912-sort-an-array](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1920-build-array-from-permutation](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -112,6 +113,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
