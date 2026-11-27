@@ -49,6 +49,7 @@
 | [2942-find-words-containing-character](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3925-concatenate-array-with-reverse](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,4 +119,5 @@
 | [1920-build-array-from-permutation](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
