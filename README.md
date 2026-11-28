@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Im-Ritiksoni/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -120,4 +121,12 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Im-Ritiksoni/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Im-Ritiksoni/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Im-Ritiksoni/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
